@@ -1,0 +1,5 @@
+# ooep manifest v2
+# 列: blob_id<TAB>sha256(密文文件)<TAB>hmac_sha256(明文, 校验密钥)<TAB>v
+# blob_id 为随机 16 位 hex，与路径无关；路径只存在于密文内部
+# pathset_sha256=b10564ab7d2c520cdd0243874879fb0a782862c3c902ab535faabe57d5a505e1
+08f1be825db2afc7	bdb2402d29b6ea5da597f44b6ea162df37868362d74530988e8a774e0d625961	af47fb555d4b498b176e5936d23d13fa7ee23e4c34f3c123a2940da7471b73fc	2
